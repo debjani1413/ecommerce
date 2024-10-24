@@ -7,7 +7,7 @@ import Filtered from "./components/filtered";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/ecommerce">
     <div className="App">
       <Navigation />
       <Routes>
