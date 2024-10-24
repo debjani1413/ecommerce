@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debjani1413/ecommerce/static/css/main.e3c28fa8.css",
+    "main.js": "/debjani1413/ecommerce/static/js/main.88a2be0c.js",
+    "static/media/banner.png": "/debjani1413/ecommerce/static/media/banner.789f1fa6f451ad26c503.png",
+    "static/media/avatar.webp": "/debjani1413/ecommerce/static/media/avatar.4cfa782eff40a514e0cb.webp",
+    "index.html": "/debjani1413/ecommerce/index.html",
+    "main.e3c28fa8.css.map": "/debjani1413/ecommerce/static/css/main.e3c28fa8.css.map",
+    "main.88a2be0c.js.map": "/debjani1413/ecommerce/static/js/main.88a2be0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c28fa8.css",
+    "static/js/main.88a2be0c.js"
+  ]
+}
