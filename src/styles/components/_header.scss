@@ -1,0 +1,17 @@
+.display-header {
+    padding-top: $top;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+
+    a {
+        margin-top: 10px;
+        text-decoration: underline;
+    }
+}
+
+.header {
+    font-size: $font-medium;
+}
+

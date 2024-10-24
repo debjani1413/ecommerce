@@ -1,0 +1,29 @@
+.banner {
+    display: flex;
+    width: 90%;
+    background-color: $background-color-01;
+    padding-left: $xl-size;
+}
+
+.banner-desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner-content {
+    font-size: $font-large;
+    font-weight: 250;
+    padding: $xxs-size;
+    width: 20rem;
+}
+
+span {
+    font-weight: 450;
+}
+
+.banner-subcontent {
+    font-size: $font-small;
+    font-weight: 300;
+    padding: $xxs-size;
+}

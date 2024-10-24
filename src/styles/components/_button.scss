@@ -1,0 +1,16 @@
+.button {
+    padding: $xs-size;
+    margin-left: $xxs-size;
+    background-color:  $button-color;
+    width: fit-content;
+    color: $white;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+        background-color: $button-hover;
+    }
+}
+
+.button-icon {
+    padding-left: 7px;
+}
